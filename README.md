@@ -1,2 +1,2 @@
 # Arduino-Code
- All my arduino code snippets
+ Arduino code snippets
